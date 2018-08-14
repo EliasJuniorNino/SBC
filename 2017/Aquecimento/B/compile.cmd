@@ -1,0 +1,1 @@
+gcc -static -O2 -lm "run.c" -o "run"

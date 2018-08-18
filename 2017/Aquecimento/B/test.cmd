@@ -18,4 +18,4 @@ set /A i = %i% + 1
 IF %i% LEQ %n% goto FOR
 
 :FIM
-ECHO off
+ECHO on
